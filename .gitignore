@@ -1,0 +1,3 @@
+# Project exclude paths
+/rabbit_receive/target/
+/rabbitmq_send/target/
